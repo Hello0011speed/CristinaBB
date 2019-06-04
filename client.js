@@ -78,3 +78,4 @@ const init = async () => {
 // End top-level async/await function.
 };
 
+init();
